@@ -17,7 +17,8 @@ The data set contains student recordings for 18 different instruments covering t
 
 ## Folder Structure
 The folder structure is shown below: 
-`FbaData`
+
+`MIG-FbaData`
 
     --> `FBA2013` 
     
@@ -28,6 +29,8 @@ The folder structure is shown below:
             --> `student-id` : folder, for a particular student. student-id is a 5 digit number. contains annotations for the student. individual files are described in the section 'Annotations & Metadata' is this readme
             
         --> `midiscores` : folder, contain the scores that the students are performing instrument wise in midi format
+        ...
+        ...
     
     --> `FBA2014`
         ...
