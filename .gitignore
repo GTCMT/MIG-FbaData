@@ -1,0 +1,54 @@
+# octocat from GitHub's common .gitignore configuration file.
+# https://gist.github.com/octocat/9257657#file-gitignore
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Backup Files #
+################
+*.m~
+*.asv
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+ 
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+*.mat
+pathdef.m
+*.wav
+ 
+# OS generated files #
+######################
+.DS_Store
+desktop.ini
+.DS_Store?
+desktop.ini
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# pYin Pitch Contours#
+######################
+*_pyin_pitchtrack.txt

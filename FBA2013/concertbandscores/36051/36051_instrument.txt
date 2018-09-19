@@ -1,0 +1,2 @@
+// data format: instrument name(str)	activity name(str)
+tru	lyricalEtude

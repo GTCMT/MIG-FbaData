@@ -1,0 +1,6 @@
+// data format: instrument name(str)	activity name(str)
+flu	lyricalEtude
+flu	technicalEtude
+flu	chromaticScale
+flu	scale
+flu	sightReading

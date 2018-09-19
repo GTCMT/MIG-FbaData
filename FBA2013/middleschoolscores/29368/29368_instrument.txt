@@ -1,0 +1,6 @@
+// data format: instrument name(str)	activity name(str)
+obo	lyricalEtude
+obo	technicalEtude
+obo	scalesChromatic
+obo	scalesMajor
+obo	sightReading

@@ -1,0 +1,6 @@
+// data format: instrument name(str)	activity name(str)
+asx	lyricalEtude
+asx	technicalEtude
+asx	chromaticScale
+asx	scale
+asx	sightReading
