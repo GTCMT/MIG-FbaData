@@ -1,11 +1,9 @@
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
 # FBA Data Repository
----
 This repository contains the segment annotations, assessments and other metadata of student performances for the Florida all-state auditions. The dataset is available on request from the Florida Bandmasters Association (FBA).
 
 ## Usage
----
 This repository is meant to be used with the [MIG-MusicPerformanceAnalysis repository](https://github.com/GTCMT/MIG-MusicPerformanceAnalysis) and both should be cloned at the same folder level. 
 There are additional intermediate representations such as pitch contours which are pre-computed and stored at [provide link](https://dummy.link). To obtain those follow the steps below:
 1. Go the [provide link](https://dummy.link) and download the folder titled `FbaData`.
@@ -15,11 +13,9 @@ There are additional intermediate representations such as pitch contours which a
 The downloaded 'FbaData' folder from the previous link should be merged with this cloned repository before it can be used. 
 
 ## Dataset Description
----
 The data set contains student recordings for 18 different instruments covering the instrument groups woodwind, brass, and percussion. The performances are assessed by expert judges in different categories. The data is anonymized - personal identification of students and judges is impossible.
 
 ## Folder Structure
----
 The folder structure is shown below: 
 `FbaData`
 
@@ -40,7 +36,6 @@ The folder structure is shown below:
     ...
 
 ## Annotations & Metadata
----
 Each student-id folder contains the following annotations and metadata files:
 
 ### *_assessments.txt
