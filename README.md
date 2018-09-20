@@ -5,9 +5,9 @@ This repository contains the segment annotations, assessments and other metadata
 
 ## Usage
 This repository is meant to be used with the [MIG-MusicPerformanceAnalysis repository](https://github.com/GTCMT/MIG-MusicPerformanceAnalysis) and both should be cloned at the same folder level. 
-There are additional intermediate representations such as pitch contours which are pre-computed and stored at [provide link](https://dummy.link). To obtain those follow the steps below:
-1. Go the [provide link](https://dummy.link) and download the folder titled `FbaData`.
-2. Copy the folder and paste it at the same folder level as this repository.
+There are additional intermediate representations such as pitch contours which are pre-computed and stored separately. To obtain those follow the steps below:
+1. Click [here](https://gtvault-my.sharepoint.com/:u:/r/personal/alerch3_gatech_edu/Documents/FBA/MIG-FbaData.zip?csf=1&e=txb93I) to download a .zip file titled `MIG-FbaData.zip`.
+2. Extract the contents of the downloaded file and paste it at the same folder level as this repository.
 3. Select 'Paste and Merge' when prompted. 
 
 The downloaded 'FbaData' folder from the previous link should be merged with this cloned repository before it can be used. 
