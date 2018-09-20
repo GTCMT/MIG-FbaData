@@ -1,4 +1,4 @@
-[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 # FBA Data Repository
 This repository contains the segment annotations, assessments and other metadata of student performances for the Florida all-state auditions. The dataset is available on request from the Florida Bandmasters Association (FBA).
