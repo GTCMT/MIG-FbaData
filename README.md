@@ -6,7 +6,7 @@ This repository contains the segment annotations, assessments and other metadata
 ## Usage
 This repository is meant to be used with the [MIG-MusicPerformanceAnalysis repository](https://github.com/GTCMT/MIG-MusicPerformanceAnalysis) and both should be cloned at the same folder level. 
 There are additional intermediate representations such as pitch contours which are pre-computed and stored separately. To obtain those follow the steps below:
-1. Click [here](https://gtvault-my.sharepoint.com/:u:/r/personal/alerch3_gatech_edu/Documents/FBA/MIG-FbaData.zip?csf=1&e=txb93I) to download a .zip file titled `MIG-FbaData.zip`.
+1. Click [here](https://gtvault-my.sharepoint.com/:u:/r/personal/alerch3_gatech_edu/Documents/FBA/MIG-FbaData.zip?csf=1&e=5emFFp) to download a .zip file titled `MIG-FbaData.zip`.
 2. Extract the contents of the downloaded file and paste it at the same folder level as this repository.
 3. Select 'Paste and Merge' when prompted. 
 
@@ -21,14 +21,11 @@ The folder structure is shown below:
 `MIG-FbaData`
 
     --> `FBA2013` 
-    
-        --> `bandname.xlsx` : this excel sheet contains the tabulated assessments for all students for a particular band. The band could be middle school, concert band, or symphonic band.
-        
-        --> `bandname` : folder, for a particular band
-        
-            --> `student-id` : folder, for a particular student. student-id is a 5 digit number. contains annotations for the student. individual files are described in the section 'Annotations & Metadata' is this readme
-            
-        --> `midiscores` : folder, contain the scores that the students are performing instrument wise in midi format
+        --> `bandname` : folder, for a particular band, can be 'middleschool', 'concertband' or 'symphonicband'
+            --> `assessments` : folder, containing the assessments for each student
+                --> `student-id` : folder, for a particular student. student-id is a 5 digit number. contains annotations for the student. individual files are described in the section 'Annotations & Metadata' is this readme
+            --> `musicalscores` : folder, contains instrument-wise midi / pdf / xml musical scores for the auditions
+            --> `excelbandname.xlsx` : this excel sheet contains the tabulated assessments for all students for a particular band.
         ...
         ...
     
