@@ -49,6 +49,9 @@ desktop.ini
 ehthumbs.db
 Thumbs.db
 
+# VS Code
+*.idea
+
 # pYin Pitch Contours#
 ######################
 *_pyin_pitchtrack.txt
